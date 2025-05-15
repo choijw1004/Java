@@ -2,8 +2,10 @@
 
 # Deep Dive  
 Deep Dive into Java
---- 
+
 </div>
+
+---
 
 ## Contents
 - [클래스가 필요한 이유](#클래스가-필요한-이유)
